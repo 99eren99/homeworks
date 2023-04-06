@@ -157,7 +157,6 @@ def two_point_crossover(chromosome1,chromosome2):
 def breed(parents,proportions,n_child):
     #picks partners for crossover wrt roulette probabilities and applies crossover to obtain next generation
     next_generation=[]
-    next_generation.extend(parents)
     for i in range(n_child):
         parent_indices=np.random.choice(len(parents),2,replace=False,p=proportions)
         parent1=parents[parent_indices[0]]
