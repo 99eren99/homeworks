@@ -1,0 +1,30 @@
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\bin\Debug\net7.0\app.exe
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\bin\Debug\net7.0\app.deps.json
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\bin\Debug\net7.0\app.runtimeconfig.json
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\bin\Debug\net7.0\app.dll
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\bin\Debug\net7.0\app.pdb
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\app.dll
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\refint\app.dll
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\app.pdb
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c sharp version\obj\Debug\net7.0\ref\app.dll
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\bin\Debug\net7.0\app.exe
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\bin\Debug\net7.0\app.deps.json
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\bin\Debug\net7.0\app.runtimeconfig.json
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\bin\Debug\net7.0\app.dll
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\bin\Debug\net7.0\app.pdb
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\app.dll
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\refint\app.dll
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\app.pdb
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\Users\eren.tahir\Documents\Dersler\yz\tsp genethic algorithm\c# version\obj\Debug\net7.0\ref\app.dll
