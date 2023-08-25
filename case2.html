@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<script type="text/javascript">
+    function main() {
+        var array = document.getElementById("1").value;
+        array = array.replace(/\s+/g, '');
+        console.log(array.length);
+        if (array.length < 5) {
+            alert("Girdi uzunluğu 5'ten küçük olmamalıdır.");
+            return;
+        }
+        else if (array.lenght > (2 * (10 ** 5))) {
+            alert("Girdi uzunluğu 2x(10**5)'ten büçük olmamalıdır.");
+            return;
+        }
+        
+        //count values
+        let counts = [0,0,0,0,0];
+        for( let i = 0 ;i < array.length;i++)
+        {
+          counts[array[i]-1]++;
+        }
+
+        //show minumum value of the most frequent values
+        let maxOccurenceCount= Math.max(...counts);
+        for( let i = 0 ;i < counts.length;i++){
+            if (counts[i]==maxOccurenceCount){
+                alert("En çok gözlenmeye sahip türlerden en düşük ID'ye sahip tür: "+(i+1));
+                break;
+            }
+        }
+        let min
+    }
+</script>
+
+<body>
+    Diziyi giriniz:<br> <input id="1" type="text" name="name"><br>
+    <button type="submit" onclick="main()">
+         Onayla
+         </button>
+</body>
+
+</html>
